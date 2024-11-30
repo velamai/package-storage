@@ -17,3 +17,20 @@ This is orginization's central package storage registry. It contains all the ess
   }
 }
 ```
+## Based on your nature of role, please follow the below steps:
+
+### Administrator
+
+1) Admin Packs the npm Package
+  - Admin Identifies the specific version of all the npm packages to be used in the project, consulting with Development Lead and Project Manager (PM).
+  - Admin opens this repository in local or in cloud code-space ```must have terminal access```
+  - runs ```npm pack``` command ex: ```npm pack react@17.0.1``` The pack command must include the specific version
+  - This generates a ```.tgz``` file like ```react-17.0.1.tgz```.
+
+
+
+
+
+
+
+
