@@ -18,7 +18,7 @@ The **VELAM npm Package Storage Registry (PSR)** is the organization’s central
 ```json
 {
   "dependencies": {
-    "react": "https://raw.githubusercontent.com/velam-org/package-storage/main/react-17.0.1.tgz"
+    "react": "https://raw.githubusercontent.com/velamai/package-storage/main/react-17.0.1.tgz"
   }
 }
 ```
@@ -61,7 +61,7 @@ The **VELAM npm Package Storage Registry (PSR)** is the organization’s central
      ```json
      {
        "dependencies": {
-         "react": "https://raw.githubusercontent.com/velam-org/package-storage/main/react-17.0.1.tgz"
+         "react": "https://raw.githubusercontent.com/velamai/package-storage/main/react-17.0.1.tgz"
        }
      }
      ```
