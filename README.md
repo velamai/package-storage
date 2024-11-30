@@ -26,7 +26,10 @@ This is orginization's central package storage registry. It contains all the ess
   - Admin opens this repository in local or in cloud code-space ```must have terminal access```
   - runs ```npm pack``` command ex: ```npm pack react@17.0.1``` The pack command must include the specific version
   - This generates a ```.tgz``` file like ```react-17.0.1.tgz```.
-
+2) Commits the code to repository
+  - Stage the new package ```git add .```
+  - Commit the code ex:```git commit -m "npm: react@18.3.1 add"``` the commit message should be follow the before mentioned commit message standard for better understanding of commit history
+  - Push the code ```git push```
 
 
 
