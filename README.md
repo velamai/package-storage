@@ -31,6 +31,17 @@ This is orginization's central package storage registry. It contains all the ess
   - Commit the code ex:```git commit -m "npm: react@18.3.1 add"``` the commit message should be follow the before mentioned commit message standard for better understanding of commit history
   - Push the code ```git push```
 
+### Development Team
+
+1) To utilize orginizations packages from PSR team have to modify ```package.json``` like below
+``` json
+{
+  "dependencies": {
+    "react": "https://raw.githubusercontent.com/bobfc/packages/main/react-18.3.1.tgz"
+  }
+}
+```
+
 
 
 
